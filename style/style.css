@@ -1,9 +1,9 @@
 /* Constrain page width and center content */
 body {
-	background-colour: #F7F7F5;
-  max-width: 800px;     /* Adjust this value as needed */
-  margin: 0 auto;       /* Centers the content horizontally */
-  padding: 0 1em;       /* Adds breathing room on small screens */
+	background-color: #F7F7F5;
+    max-width: 800px;     /* Adjust this value as needed */
+    margin: 0 auto;       /* Centers the content horizontally */
+    padding: 0 1em;       /* Adds breathing room on small screens */
 	font-family: "Inter var", sans-serif;
 	letter-spacing: 0px;
 }
