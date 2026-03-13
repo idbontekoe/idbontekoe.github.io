@@ -1,5 +1,6 @@
 /* Constrain page width and center content */
 body {
+	background-colour: #F7F7F5;
     max-width: 800px;     /* Adjust this value as needed */
     margin: 0 auto;       /* Centers the content horizontally */
     padding: 0 1em;       /* Adds breathing room on small screens */
@@ -11,7 +12,7 @@ body {
   padding: 1em;
   text-align: center;
   background: #1abc9c;
-  color: white;
+  color: #F7F7F5;
   font-size: 30px;
   margin-bottom: 2em;
 }
@@ -20,7 +21,7 @@ body {
 	padding: 1em;
 	text-align: center;
     background-color: #1abc9c;
-	color: white;
+	color: #F7F7F5;
 	font-size: 25px;
     position: static;
     height: 100px;
