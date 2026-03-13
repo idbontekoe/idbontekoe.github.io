@@ -1,9 +1,9 @@
 /* Constrain page width and center content */
 body {
 	background-colour: #F7F7F5;
-    max-width: 800px;     /* Adjust this value as needed */
-    margin: 0 auto;       /* Centers the content horizontally */
-    padding: 0 1em;       /* Adds breathing room on small screens */
+  max-width: 800px;     /* Adjust this value as needed */
+  margin: 0 auto;       /* Centers the content horizontally */
+  padding: 0 1em;       /* Adds breathing room on small screens */
 	font-family: "Inter var", sans-serif;
 	letter-spacing: 0px;
 }
@@ -52,4 +52,20 @@ body {
     margin-bottom: 1em;    /* small space below the year */
     padding-left: 0;       /* aligns the year to the left */
 	margin-left: 0;        /* keeps the year to the left */
+}
+
+header {
+  background: #333;
+  padding: 15px;
+}
+
+.menu a {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.menu a:hover {
+  text-decoration: underline;
 }
