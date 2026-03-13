@@ -3,6 +3,8 @@ body {
     max-width: 800px;     /* Adjust this value as needed */
     margin: 0 auto;       /* Centers the content horizontally */
     padding: 0 1em;       /* Adds breathing room on small screens */
+	font-family: "Inter var", sans-serif;
+	letter-spacing: 0px;
 }
 
 .header {
